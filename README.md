@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Olá, eu sou Mariana Lisboa! 🚀
 
 ![Mariana GitHub stats](https://github-readme-stats.vercel.app/api?username=marian4cost&show_icons=true&theme=dark)
