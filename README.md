@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/marian4.cost4?igshid=MzMyNGUyNmU2YQ==)
 
 ## Tecnologias 
-### Desenvolvimento Web 
+#### Desenvolvimento Web 
 <div styles='display: inline_block'>
   </br>
   <img src='https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white'>
@@ -18,19 +18,19 @@
   <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'> 
 </div>
 
-### Deploy
+#### Deploy
 <div>
 </br>
   <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'>
 </div>
 
-### Prompt
+#### Prompt
 <div>
   </br>
   <img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'>
 </div>
 
-### Sistemas Embarcados
+#### Sistemas Embarcados
 <div>
   </br>
   <img src='https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'>
@@ -38,7 +38,7 @@
   <img src='https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white'>
 </div>
 
-### IDE's
+#### IDE's
 <div>
   </br>
   <img src='https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white'>
