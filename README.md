@@ -31,7 +31,7 @@ Trabalho com Ferramentas como👇:
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
 </br>
 
-Quer saber mais sobre meu trabalho ou garantir a sua aplicação? Só entrar em contato através do👇:
+<b>Quer saber mais sobre meu trabalho ou garantir a sua aplicação? Só entrar em contato através do👇:</b>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marian4.cost4/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-costa-a702aa281/)
