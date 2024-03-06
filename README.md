@@ -3,7 +3,6 @@
 Sou Desenvolvedora Web com especialização em Front-End e de Sistemas Embarcados com Microcontroladores de baixo custo (Arduino, NodeMCU). Com a formação de nível tecnico em em Redes de Computadores - IFS.
 
 <b>Na área de Desenvolvimento Web:</b>
-
 Possou conhecimentos nas Linguagens👇:
 </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +20,14 @@ Trabalho com Ferramentas como👇:
 Possou conhecimentos nas Linguagens👇: 
 </br>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+</br>
+
 Trabalho com Ferramentas como👇:
+</br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
+</br>
 
 Quer saber mais sobre meu trabalho ou garantir a sua aplicação? Só entrar em contato através do👇:
 
