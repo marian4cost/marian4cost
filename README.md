@@ -2,7 +2,7 @@
 
 Sou Desenvolvedora Web com especialização em Front-End e de Sistemas Embarcados com Microcontroladores de baixo custo (Arduino, NodeMCU). Com a formação de nível tecnico em em Redes de Computadores - IFS.
 
-Na área de Desenvolvimento Web:
+<b>Na área de Desenvolvimento Web:</b>
 
 Possou conhecimentos nas Linguagens👇:
 </br>
