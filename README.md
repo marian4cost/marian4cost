@@ -1,6 +1,6 @@
 ## Olá! Me chamo Mariana Lisboa 🚀
 
-Sou Desenvolvedora Web com especialização em Front-End e de Sistemas Embarcados com Microcontroladores de baixo custo (Arduino, NodeMCU). Com a formação de nível tecnico em em Redes de Computadores - IFS.
+Sou Desenvolvedora Web com especialização em Front-End e Desenvolvedora de Sistemas Embarcados com Microcontroladores de baixo custo (Arduino, NodeMCU). Possuindo uma formação de nível tecnico em Redes de Computadores - IFS.
 
 <b>Na área de Desenvolvimento Web:</b>
 
