@@ -13,19 +13,19 @@
 
 ###
 
-<h3 align="left">👩‍💻 Formação Acadêmica</h3>
-
-###
-
-<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 2/8<br>⚡ | Engenharia Elétrica 1/10</p>
-
-###
-
 <h3 align="left">👩‍💻 Sobre Mim</h3>
 
 ###
 
 <p align="left">🌎 | Uma jovem se aventurando no mundo da programação<br>🖥️ | Desenvolvedora Web Front-End<br>📚 | Estudando sobre: Node.js e MySQL<br>👩‍💻 | Dev Full-Stack em andamento</p>
+
+###
+
+<h3 align="left">👩‍💻 Formação Acadêmica</h3>
+
+###
+
+<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 2/8<br>⚡ | Engenharia Elétrica 1/10</p>
 
 ###
 
