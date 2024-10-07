@@ -1,37 +1,72 @@
-## Olá! Me chamo Mariana Lisboa 🚀
+<div align="center">
+  <a href="https://www.linkedin.com/in/mariana-costa-a702aa281/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/marian4.cost4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+</div>
 
-Sou Desenvolvedora Web com especialização em Front-End e Desenvolvedora de Sistemas Embarcados com Microcontroladores de baixo custo (Arduino, NodeMCU). Possuindo uma formação de nível tecnico em Redes de Computadores - IFS.
+###
 
-<b>Na área de Desenvolvimento Web:</b>
+<h1 align="center">Olá, seja bem-vindo</h1>
 
-Possou conhecimentos nas Linguagens👇:
-</br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</br>
+###
 
-Trabalho com Ferramentas como👇:
-</br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</br>
+<h3 align="left">👩‍💻 Formação Acadêmica</h3>
 
-<b>Na área de Sistemas Embarcados</b>
+###
 
-Possou conhecimentos nas Linguagens👇: 
-</br>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</br>
+<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 2/8<br>⚡ | Engenharia Elétrica 1/10</p>
 
-Trabalho com Ferramentas como👇:
-</br>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
-<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white">
-</br>
+###
 
-<b>Quer saber mais sobre meu trabalho ou garantir a sua aplicação? Só entrar em contato através do👇:</b>
+<h3 align="left">👩‍💻 Sobre Mim</h3>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marian4.cost4/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-costa-a702aa281/)
+###
+
+<p align="left">🌎 | Uma jovem se aventurando no mundo da programação<br>🖥️ | Desenvolvedora Web Front-End<br>📚 | Estudando sobre: Node.js e MySQL<br>👩‍💻 | Dev Full-Stack em andamento</p>
+
+###
+
+<h3 align="left">🛠 Tecnologias</h3>
+
+###
+
+<h4 align="left">🖥️ Desenvolvimento Web</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h4 align="left">🖥️ Desenvolvimento de Sistemas Embarcados</h4>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+</div>
+
+###
