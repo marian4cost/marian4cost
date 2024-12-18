@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 2/8<br>⚡ | Engenharia Elétrica 1/10</p>
+<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 3/8<br>⚡ | Engenharia Elétrica 1/10</p>
 
 ###
 
