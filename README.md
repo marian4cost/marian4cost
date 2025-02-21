@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 3/8<br>⚡ | Engenharia Elétrica 1/10</p>
+<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 3/8</p>
 
 ###
 
@@ -50,18 +50,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-</div>
-
-###
-
-<h4 align="left">🖥️ Desenvolvimento de Sistemas Embarcados</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
 </div>
 
 ###
