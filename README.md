@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">🌎 | Uma jovem se aventurando no mundo da programação<br>🖥️ | Desenvolvedora Web Front-End<br>📚 | Estudando sobre: Node.js e MySQL<br>👩‍💻 | Dev Full-Stack em andamento</p>
+<p align="left">🌎 | Uma jovem se aventurando no mundo da programação<br>🖥️ | Desenvolvedora Web Front-End<br>📚 | Estudando sobre: Node.js e MongoDB<br>👩‍💻 | Dev Full-Stack em andamento</p>
 
 ###
 
