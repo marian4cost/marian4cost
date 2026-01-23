@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 4/8 <br> 💻 | Sistemas de Informação 1/8</p>
+<p align="left">🌐 | Redes de Computadores<br>🖥️ | Ciências da Computação 5/8 <br> 💻 | Sistemas de Informação 1/8</p>
 
 ###
 
