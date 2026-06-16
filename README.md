@@ -21,15 +21,10 @@ Análise de Dados • Python • SQL • Power BI • Inteligência Artificial
 <p align="left">
 
 📊 | Profissional de tecnologia em transição para a área de Análise de Dados <br>
-
 🐍 | Desenvolvendo projetos com Python, SQL, Estatística e Visualização de Dados <br>
-
 📈 | Interesse em Business Intelligence, Ciência de Dados e Inteligência Artificial <br>
-
 🔬 | Pesquisadora e desenvolvedora de projetos científicos aplicados à tecnologia e análise de dados <br>
-
 🎓 | Graduanda em Ciência da Computação e Sistemas de Informação <br>
-
 🚀 | Transformando dados em informações para apoiar tomadas de decisão
 
 </p>
@@ -41,9 +36,7 @@ Análise de Dados • Python • SQL • Power BI • Inteligência Artificial
 <p align="left">
 
 💻 | Ciência da Computação 5/10 <br>
-
 🖥️ | Sistemas de Informação 2/8 <br>
-
 🌐 | Formação Técnica em Redes de Computadores <br>
 
 📚 | Estudos focados em:
@@ -132,13 +125,9 @@ Sistema baseado em Visão Computacional e OCR para detecção e reconhecimento d
 <p align="left">
 
 🐍 Python para Análise de Dados <br>
-
 🗄️ SQL <br>
-
 📊 Power BI <br>
-
 📉 Estatística Aplicada <br>
-
 🤖 Inteligência Artificial aplicada à análise de dados
 
 </p>
