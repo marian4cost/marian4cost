@@ -54,6 +54,8 @@ Sistema baseado em Visão Computacional e OCR para detecção e reconhecimento d
 
 **Tecnologias:** Python, OpenCV, EasyOCR, Machine Learning
 
+---
+
 <h3 align="left">📊 Dados & Analytics</h3>
 
 <div align="left">
@@ -74,8 +76,6 @@ Sistema baseado em Visão Computacional e OCR para detecção e reconhecimento d
 
 </div>
 
----
-
 <h3 align="left">🤖 IA & Computação</h3>
 
 <div align="left">
@@ -86,8 +86,6 @@ Sistema baseado em Visão Computacional e OCR para detecção e reconhecimento d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="40" alt="opencv logo"/>
 
 </div>
-
----
 
 <h3 align="left">💻 Desenvolvimento</h3>
 
