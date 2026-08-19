@@ -36,7 +36,7 @@ Análise de Dados • Python • SQL • Power BI • Inteligência Artificial
 <p align="left">
 
 💻 | Ciência da Computação 6/10 <br>
-🖥️ | Sistemas de Informação 2/8 <br>
+🖥️ | Sistemas de Informação 3/8 <br>
 🌐 | Formação Técnica em Redes de Computadores <br>
 
 📚 | Estudos focados em:
