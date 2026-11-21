@@ -1,139 +1,112 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/mariana-costa-a702aa281/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
+# Mariana Costa
 
-  <a href="https://www.instagram.com/marian4.cost4/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"/>
-  </a>
-</div>
-
-<h1 align="center">📊 Mariana Costa Lisboa</h1>
-
-<h3 align="center">
-Análise de Dados • Python • SQL • Power BI • Inteligência Artificial
-</h3>
+### Ciência da Computação | Sistemas de Informação | Inteligência Artificial | Pesquisa Científica
 
 ---
 
-<h3 align="left">👩‍💻 Sobre Mim</h3>
+## Sobre mim
 
-<p align="left">
+Sou estudante de **Ciência da Computação** e **Sistemas de Informação**, interessada na interseção entre computação, pesquisa científica e desenvolvimento tecnológico.
 
-📊 | Profissional de tecnologia em transição para a área de Análise de Dados <br>
-🐍 | Desenvolvendo projetos com Python, SQL, Estatística e Visualização de Dados <br>
-📈 | Interesse em Business Intelligence, Ciência de Dados e Inteligência Artificial <br>
-🔬 | Pesquisadora e desenvolvedora de projetos científicos aplicados à tecnologia e análise de dados <br>
-🎓 | Graduanda em Ciência da Computação e Sistemas de Informação <br>
-🚀 | Transformando dados em informações para apoiar tomadas de decisão
+Minha trajetória acadêmica é direcionada ao estudo e desenvolvimento de soluções nas áreas de **Inteligência Artificial, Deep Learning, Visão Computacional e Processamento Digital de Imagens**.
 
-</p>
+Tenho participado de projetos de pesquisa e desenvolvimento envolvendo reconhecimento de padrões, processamento de imagens, automação e aplicação de técnicas computacionais para resolução de problemas reais.
+
+Busco aprofundar meus conhecimentos científicos e técnicos, contribuindo para o desenvolvimento de pesquisas e soluções tecnológicas.
 
 ---
 
-<h3 align="left">🎓 Formação Acadêmica</h3>
+## Áreas de interesse
 
-<p align="left">
-
-💻 | Ciência da Computação 6/10 <br>
-🖥️ | Sistemas de Informação 3/8 <br>
-🌐 | Formação Técnica em Redes de Computadores <br>
-
-📚 | Estudos focados em:
-Análise de Dados, Estatística, Banco de Dados, Inteligência Artificial e Ciência de Dados
-
-</p>
+- Inteligência Artificial
+- Aprendizado de Máquina (*Machine Learning*)
+- Aprendizado Profundo (*Deep Learning*)
+- Visão Computacional
+- Processamento Digital de Imagens
+- Reconhecimento de Padrões
+- Ciência da Computação e Pesquisa Científica
 
 ---
 
-<h3 align="left">📌 Projeto em Destaque</h3>
+## Formação acadêmica
 
-### 🚗 VIPER — Reconhecimento Inteligente de Placas Veiculares
-
-Sistema baseado em Visão Computacional e OCR para detecção e reconhecimento de placas Mercosul em imagens estáticas.
-
-**Tecnologias:** Python, OpenCV, EasyOCR, Machine Learning
+- **Ciência da Computação** — Graduação
+- **Sistemas de Informação** — Graduação
+- **Técnico em Redes de Computadores** — Instituto Federal de Sergipe (IFS)
 
 ---
 
-<h3 align="left">📊 Dados & Analytics</h3>
+## Pesquisa e desenvolvimento
 
-<div align="left">
+### MOREA — Pesquisa em Inteligência Artificial e Visão Computacional
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"/>
-  <img width="12"/>
+Participação em atividades de pesquisa e desenvolvimento de soluções computacionais, com destaque para o projeto VIPER.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas logo"/>
-  <img width="12"/>
+**Principais tecnologias e ferramentas:**
+- Python
+- OpenCV
+- YOLO
+- OCR
+- Processamento Digital de Imagens
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"/>
-  <img width="12"/>
+### LABIC — Laboratório de Inovação e Computação
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="mysql logo"/>
-  <img width="12"/>
+Experiências envolvendo desenvolvimento de software, programação e tecnologias aplicadas à computação.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" alt="postgresql logo"/>
-
-</div>
-
-<h3 align="left">🤖 IA & Computação</h3>
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="python logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" width="40" alt="opencv logo"/>
-
-</div>
-
-<h3 align="left">💻 Desenvolvimento</h3>
-
-<div align="left">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="html5 logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="css3 logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40" alt="typescript logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="40" alt="nextjs logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="nodejs logo"/>
-  <img width="12"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="mongodb logo"/>
-
-</div>
+**Áreas de atuação:**
+- Desenvolvimento Web
+- Programação em C e C++
+- Internet das Coisas (IoT)
+- Sistemas embarcados
 
 ---
 
-<h3 align="left">📈 Atualmente Estudando</h3>
+## Projetos em destaque
 
-<p align="left">
+### VIPER — Vehicle Identification for Protection of Education Research Environments
 
-🐍 Python para Análise de Dados <br>
-🗄️ SQL <br>
-📊 Power BI <br>
-📉 Estatística Aplicada <br>
-🤖 Inteligência Artificial aplicada à análise de dados
+Projeto de pesquisa voltado ao desenvolvimento de um sistema de identificação de veículos por meio de técnicas de Visão Computacional e reconhecimento óptico de caracteres.
 
-</p>
+**Objetivo:** desenvolver uma solução para detecção e reconhecimento de placas veiculares em imagens, considerando o contexto de controle de acesso em ambientes institucionais.
+
+**Tecnologias:** Python, YOLO, OpenCV e OCR.
+
+[ Acessar repositório](https://github.com/marian4cost/VIPER)
+
+### DeepScan — Processamento e Realce de Imagens
+
+Projeto relacionado ao estudo e desenvolvimento de técnicas de realce de contraste em imagens, explorando abordagens de Processamento Digital de Imagens e Inteligência Artificial.
+
+**Temas relacionados:** realce de contraste, processamento de imagens e técnicas de Deep Learning.
+
+[ Acessar repositório](https://github.com/marian4cost/DeepScan)
 
 ---
 
-<div align="center">
+## Tecnologias e ferramentas
 
-💡 "Dados contam histórias. Meu objetivo é transformá-las em decisões."
+### Linguagens de programação
+Python • C • C++ • JavaScript • Java
 
-</div>
+### Inteligência Artificial e processamento de imagens
+YOLO • OpenCV • OCR • Deep Learning
+
+### Desenvolvimento e ferramentas
+Git • GitHub • Linux • Node.js • React
+
+### Banco de dados
+SQL • MySQL
+
+---
+
+## Reconhecimentos
+
+- **3º lugar na RoboBase — ERBASE 2026**, em Maragogi, Alagoas.
+
+---
+
+## Contato e perfis acadêmicos
+
+- **LinkedIn:** [Mariana Costa](https://www.linkedin.com/in/mariana-costa-a702aa281/)
+- **Currículo Lattes:** [Acessar currículo](http://lattes.cnpq.br/5717790961796682)
+- **GitHub:** [marian4cost](https://github.com/marian4cost)
