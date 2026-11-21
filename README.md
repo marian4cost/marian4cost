@@ -1,177 +1,157 @@
-# Olá! Eu sou Mariana Costa 👋
+# 👩🏻‍💻 Mariana Costa
+
+### 🎓 Ciência da Computação | Sistemas de Informação | Inteligência Artificial
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Sistemas+de+Informa%C3%A7%C3%A3o;Intelig%C3%AAncia+Artificial+%26+Pesquisa;Vis%C3%A3o+Computacional+%26+Deep+Learning" alt="Apresentação" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/marian4cost">
-    <img src="https://img.shields.io/badge/GitHub-marian4cost-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/mariana-costa-a702aa281/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://marianaanalyst.mage.dev.br/">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="http://lattes.cnpq.br/5717790961796682">
-    <img src="https://img.shields.io/badge/Curr%C3%ADculo-Lattes-2E8B57?style=for-the-badge&logo=academia" />
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo-Lattes-00599C?style=for-the-badge&logo=academia&logoColor=white" alt="Currículo Lattes"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariana-costa-a702aa281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/marian4cost">
+    <img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 🧑‍🔬 Sobre mim
+## 🔬 Sobre mim
 
-Sou estudante de **Ciência da Computação** e **Sistemas de Informação**, com interesse em pesquisa científica, desenvolvimento tecnológico e aplicação de métodos computacionais na resolução de problemas.
+Sou estudante de **Ciência da Computação** e **Sistemas de Informação**, com interesse em pesquisa científica, desenvolvimento de software e aplicação de tecnologias computacionais.
 
-Minha trajetória acadêmica está direcionada principalmente às áreas de **Inteligência Artificial, Deep Learning, Visão Computacional e Processamento Digital de Imagens**.
+Minha trajetória acadêmica está especialmente relacionada às áreas de **Inteligência Artificial, Deep Learning, Visão Computacional e Processamento Digital de Imagens**.
 
-Participo de projetos de pesquisa e desenvolvimento que envolvem reconhecimento de padrões, processamento de imagens, automação e desenvolvimento de soluções computacionais.
+Tenho interesse em investigar problemas, desenvolver soluções e explorar a aplicação de métodos computacionais em diferentes contextos. Também possuo experiência com desenvolvimento web, programação e tecnologias voltadas à análise e processamento de dados.
 
-Atualmente, busco aprofundar meus conhecimentos teóricos e práticos, construir uma trajetória acadêmica sólida e contribuir para projetos de pesquisa e inovação.
+Atualmente, busco aprofundar minha formação científica e técnica, contribuindo para projetos de pesquisa e desenvolvimento tecnológico.
 
-## 🔬 Áreas de interesse
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Deep_Learning-7952B3?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Vision-0077B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Digital_Image_Processing-2A9D8F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pattern_Recognition-E76F51?style=for-the-badge" />
-</p>
+## 🧭 Áreas de interesse
 
-| Área | Interesses de estudo |
-|---|---|
-| 🧠 Inteligência Artificial | Aprendizado de máquina e modelos inteligentes |
-| 🕸️ Deep Learning | Redes neurais e modelos de aprendizado profundo |
-| 👁️ Visão Computacional | Detecção, classificação e reconhecimento de objetos |
-| 🖼️ Processamento de Imagens | Realce, segmentação e análise de imagens |
-| 🔎 Reconhecimento de Padrões | Extração de características e classificação |
+| Área | Temas de interesse |
+|:---|:---|
+| 🤖 Inteligência Artificial | Machine Learning, Deep Learning e redes neurais |
+| 👁️ Visão Computacional | Detecção de objetos, reconhecimento de padrões e OCR |
+| 🖼️ Processamento de Imagens | Realce de contraste, análise e processamento digital |
+| 📊 Ciência de Dados | Análise exploratória, estatística e visualização |
+| 💻 Engenharia de Software | Desenvolvimento de aplicações e arquitetura de sistemas |
+| 🔬 Pesquisa Científica | Experimentação, metodologia e produção acadêmica |
 
-## 🎓 Formação acadêmica
-
-| Formação | Instituição |
-|---|---|
-| Ciência da Computação | Graduação |
-| Sistemas de Informação | Graduação |
-| Técnico em Redes de Computadores | Instituto Federal de Sergipe — IFS |
+---
 
 ## 🧪 Pesquisa e desenvolvimento
 
-### MOREA — Pesquisa e desenvolvimento
+### 🚗 VIPER — Vehicle Identification for Protection of Education Research Environments
 
-Atuação em projetos de pesquisa e desenvolvimento envolvendo soluções computacionais, com destaque para Visão Computacional e Inteligência Artificial.
+Projeto de pesquisa voltado ao desenvolvimento de uma solução de identificação de veículos por meio de técnicas de Visão Computacional e reconhecimento óptico de caracteres.
 
-**Projeto em destaque: VIPER**
+**Objetivo:** investigar e desenvolver um sistema capaz de detectar e reconhecer placas veiculares em imagens, considerando o contexto de controle de acesso em ambientes institucionais.
 
-### LABIC — Laboratório de Inovação e Computação
+**Tecnologias principais:** Python, YOLO, OpenCV e OCR.
 
-Experiências em desenvolvimento de software e tecnologias aplicadas à computação.
+🔗 [Acessar repositório](https://github.com/marian4cost/VIPER)
 
-**Áreas de atuação:** desenvolvimento web, programação em C/C++, IoT e sistemas embarcados.
+### 🖼️ DeepScan — Processamento e Realce de Imagens
 
-## 🚀 Projetos em destaque
+Projeto relacionado ao estudo e desenvolvimento de técnicas de realce de contraste em imagens, explorando abordagens de Processamento Digital de Imagens e Inteligência Artificial.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚘 VIPER</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Research-Computer_Vision-0077B6?style=flat-square" />
-      </p>
-      <p>
-        Sistema de identificação de placas veiculares em imagens estáticas, utilizando técnicas de Visão Computacional e reconhecimento óptico de caracteres.
-      </p>
-      <p><strong>Tecnologias:</strong> Python, YOLO, OpenCV e OCR.</p>
-      <p align="center">
-        <a href="https://github.com/marian4cost/VIPER">Acessar repositório →</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 DeepScan</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Research-Image_Processing-2A9D8F?style=flat-square" />
-      </p>
-      <p>
-        Projeto relacionado ao estudo de técnicas de realce de contraste em imagens, explorando Processamento Digital de Imagens e abordagens de Inteligência Artificial.
-      </p>
-      <p><strong>Temas:</strong> realce de contraste, processamento de imagens e Deep Learning.</p>
-      <p align="center">
-        <a href="https://github.com/marian4cost/DeepScan">Acessar repositório →</a>
-      </p>
-    </td>
-  </tr>
-</table>
+**Temas envolvidos:** realce de contraste, processamento digital de imagens e técnicas de Deep Learning.
 
-## 💻 Tecnologias e ferramentas
+🔗 [Acessar repositório](https://github.com/marian4cost/DeepScan)
 
-### Linguagens de programação
+---
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts" alt="Linguagens de programação" />
+## 🛠️ Tecnologias e ferramentas
+
+Organizo minhas tecnologias de acordo com as áreas em que estudo e desenvolvo projetos.
+
+### 🤖 Inteligência Artificial e Visão Computacional
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=ultralytics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-Reconhecimento%20de%20texto-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-### Inteligência Artificial e processamento de imagens
+### 💻 Linguagens de programação
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch" alt="Ferramentas de IA" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,java&theme=light"/>
 </p>
 
-### Desenvolvimento e ferramentas
+### 🌐 Desenvolvimento Web
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,git,github,linux,vscode" alt="Ferramentas de desenvolvimento" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=light"/>
 </p>
 
-### Banco de dados
+### 🗄️ Dados e bancos de dados
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Banco de dados" />
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=light"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
+### ⚙️ Ferramentas e ambiente de desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=light"/>
+</p>
+
+---
+
+## 🎓 Formação acadêmica
+
+| Formação | Instituição / situação |
+|:---|:---|
+| 🎓 Ciência da Computação | Graduação em andamento |
+| 🎓 Sistemas de Informação | Graduação em andamento |
+| 🌐 Técnico em Redes de Computadores | Instituto Federal de Sergipe — IFS |
+
+---
 
 ## 🏆 Reconhecimentos
 
-<table>
-  <tr>
-    <td align="center" width="100">
-      <h1>🥉</h1>
-    </td>
-    <td>
-      <strong>3º lugar — RoboBase / ERBASE 2026</strong><br/>
-      Reconhecimento obtido durante o evento ERBASE 2026, em Maragogi — AL.
-    </td>
-  </tr>
-</table>
+| Conquista | Evento |
+|:---|:---|
+| 🥉 3º lugar | RoboBase — ERBASE 2026, Maragogi/AL |
+
+---
 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marian4cost&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian4cost&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=marian4cost&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&locale=pt-br"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marian4cost&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=marian4cost&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://github.com/marian4cost">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mariana-costa-a702aa281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="http://lattes.cnpq.br/5717790961796682">
-    <img src="https://img.shields.io/badge/Lattes-2E8B57?style=for-the-badge&logo=academia&logoColor=white" />
-  </a>
-  <!-- Substitua pelo endereço do seu portfólio -->
-  <a href="LINK_DO_SEU_PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=marian4cost&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
 </p>
 
 ---
 
+## 🌐 Contato e outros perfis
+
 <p align="center">
-  <i>"Transformando conhecimento científico em soluções computacionais."</i>
+  <a href="https://marianaanalyst.mage.dev.br/">
+    <img src="https://img.shields.io/badge/Website-Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+  <a href="http://lattes.cnpq.br/5717790961796682">
+    <img src="https://img.shields.io/badge/Lattes-CNPq-00599C?style=for-the-badge&logo=academia&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariana-costa-a702aa281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mariana%20Costa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>“Transformando curiosidade em conhecimento, pesquisa em inovação e ideias em soluções.”</i>
 </p>
